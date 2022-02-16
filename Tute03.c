@@ -21,7 +21,7 @@ int main()
 	
 	for (i=0 ; i <= n ; i=i+1){ // Begining of the for loop.
 			sum = sum + i ; // Calculation.
-	}
+	} // End of the for loop.
 	
 	printf("Sum is: %d", sum); // display the final value to the user.
 	
